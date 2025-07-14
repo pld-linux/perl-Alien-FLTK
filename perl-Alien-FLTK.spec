@@ -47,7 +47,7 @@ graficznego FLTK.
 
 %prep
 %setup -q -n %{pdir}-%{pnam}-v%{version}
-%patch0 -p1
+%patch -P0 -p1
 
 %build
 %{__perl} Build.PL \
