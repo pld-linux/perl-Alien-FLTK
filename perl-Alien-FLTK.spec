@@ -9,7 +9,7 @@ Summary:	Alien::FLTK - use the stable 1.3.x branch of the Fast Light Toolkit
 Summary(pl.UTF-8):	Alien::FLTK - korzystanie ze stabilnej gałęzi 1.3.x biblioteki Fast Light Toolkit
 Name:		perl-Alien-FLTK
 Version:	1.3.5
-Release:	1
+Release:	2
 License:	Artistic v2.0
 Group:		Development/Languages/Perl
 Source0:	http://www.cpan.org/modules/by-module/Alien/%{pdir}-%{pnam}-v%{version}.tar.gz
